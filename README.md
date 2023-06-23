@@ -36,9 +36,6 @@ The Weather App is a simple and intuitive application that provides up-to-date w
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. Together, we can make the Weather App even better! 😊
 
-## License 📜
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements 🙏
 
